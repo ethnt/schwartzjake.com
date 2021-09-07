@@ -4,11 +4,13 @@ position: 3
 has_masonry: true
 modal_type: reel
 reel:
-  url: https://www.youtube.com/watch?v=XeJyuKHuF2w
-  thumbnail_image: "/uploads/Cyn_HolyRoller_Thumbnail.jpg"
+  url: https://www.youtube.com/watch?v=fhyk9rchC2c
+  thumbnail_image: "/uploads/SilkChiffon_Thumbnail.jpg"
 media:
 - media_url: https://www.youtube.com/watch?v=imOnV44j3qE
   thumbnail_image: "/uploads/TroyeSivan_SIR_Thumbnail.jpg"
+- media_url: https://www.youtube.com/watch?v=XeJyuKHuF2w
+  thumbnail_image: "/uploads/Cyn_HolyRoller_Thumbnail.jpg"
 - media_url: https://www.youtube.com/watch?v=1TFjKtzYUWE
   thumbnail_image: "/uploads/StephenPuth_HalfGone_Thumbnail.jpg"
 - media_url: https://www.youtube.com/watch?v=qiJy-_2cZ8I
@@ -45,8 +47,6 @@ media:
   thumbnail_image: "/uploads/BU_Thumbail.jpg"
 - media_url: https://www.youtube.com/watch?v=vK8wHkucVBk
   thumbnail_image: "/uploads/ElvisCostello_Thumbail.jpg"
-- media_url: https://www.youtube.com/watch?v=vm3jB-wZzcI
-  thumbnail_image: "/uploads/StopWondering_Thumbnail.jpg"
 - media_url: https://vimeo.com/171871938
   thumbnail_image: "/uploads/EVVYAwards_Thumbnail2.jpg"
 - media_url: "/uploads/WhiteImage.jpg"
