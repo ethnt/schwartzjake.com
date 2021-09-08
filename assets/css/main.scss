@@ -1,0 +1,33 @@
+---
+---
+
+@import url(font-awesome.min.css);
+@import url("https://fonts.googleapis.com/css?family=Open+Sans:400,400italic,600,600italic,800,800italic");
+
+@import "reset";
+@import "spectral";
+
+.work {
+	img {
+		max-width: 100%;
+		border-radius: 3px;
+	}
+
+	a {
+		border: none;
+	}
+
+	&__reel {
+		width: 60em;
+		margin: 0 auto 1em;
+	}
+
+	&__grid {
+		display: grid;
+		grid-template-columns: 1fr 1fr 1fr;
+		column-gap: 1em;
+		row-gap: 1em;
+		margin: 0 auto;
+		width: 60em;
+	}
+}

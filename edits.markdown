@@ -40,7 +40,7 @@ media:
 - media_url: https://www.youtube.com/watch?v=dPeuguUHPlA
   thumbnail_image: "/uploads/Fallin_Thumbail%20-%20Editor.jpg"
 - media_url: https://vimeo.com/257176922
-  thumbnail_imae: "/uploads/Halsey_Sorry_Editor_Thumbail.jpg"
+  thumbnail_image: "/uploads/Halsey_Sorry_Editor_Thumbail.jpg"
 - media_url: https://www.youtube.com/watch?v=CfCxItPlidc
   thumbnail_image: "/uploads/M_GrandPetit_Thumbnail.jpg"
 - media_url: https://vimeo.com/278106021

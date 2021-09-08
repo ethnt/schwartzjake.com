@@ -6,17 +6,35 @@ layout: default
   <header>
     <h2>{{ page.title }}</h2>
   </header>
-  <section class="wrapper style5">
-    <div class="inner">
+  <section class="wrapper style5 work">
+      {% if page.reel %}
+        <div class="work__reel">
+          <a class="popup-reel" href="{{ page.reel.url }}">
+            <img src="{{ page.reel.thumbnail_image }}">
+          </a>
+        </div>
+      {% endif %}
+
+      {% if page.media %}
+        <div class="work__grid">
+          {% for media in page.media %}
+            <div class="work__item">
+              <a class="popup-{{ page.modal_type }}" href="{{ media.media }}">
+                <img src="{{ media.thumbnail_image }}" />
+              </a>
+            </div>
+          {% endfor %}
+        </div>
+      {% endif %}
+
+    <!-- <div class="inner">
       {{ content }}
 
       {% if page.reel %}
         <div class="row uniform 50%">
-          <div class="12u">
-            <span class="image fit">
-              <a class="popup-reel" href="{{ page.reel.url }}"><img src="{{ page.reel.thumbnail_image }}"></a>
-            </span>
-          </div>
+          <span class="image fit">
+            <a class="popup-reel" href="{{ page.reel.url }}"><img src="{{ page.reel.thumbnail_image }}"></a>
+          </span>
         </div>
       {% endif %}
 
@@ -45,6 +63,6 @@ layout: default
           </div>
         {% endif %}
       {% endif %}
-    </div>
+    </div> -->
   </section>
 </article>

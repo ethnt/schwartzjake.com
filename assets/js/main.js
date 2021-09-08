@@ -108,7 +108,7 @@
 				}
 			});
 
-			$('.masonry').magnificPopup({
+			$('.work__item').magnificPopup({
 				delegate: 'a',
 				type: 'image',
 				gallery: {
