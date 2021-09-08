@@ -19,7 +19,7 @@ layout: default
         <div class="work__grid">
           {% for media in page.media %}
             <div class="work__item">
-              <a class="popup-{{ page.modal_type }}" href="{{ media.media }}">
+              <a class="popup-reel" href="{{ media.media_url }}">
                 <img src="{{ media.thumbnail_image }}" />
               </a>
             </div>
