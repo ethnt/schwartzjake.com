@@ -30,11 +30,11 @@
 		margin: 0 auto;
 		max-width: 60em;
 
-		@media (max-width: 700px) {
+		@media (max-width: 900px) {
 			grid-template-columns: 1fr 1fr;
 		}
 
-		@media (max-width: 400px) {
+		@media (max-width: 600px) {
 			grid-template-columns: 1fr;
 		}
 	}
