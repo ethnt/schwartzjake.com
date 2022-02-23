@@ -13,7 +13,7 @@ media:
   thumbnail_image: "/uploads/Cyn_HolyRoller_Thumbnail.jpg"
 - media_url: https://www.youtube.com/watch?v=1TFjKtzYUWE
   thumbnail_image: "/uploads/StephenPuth_HalfGone_Thumbnail.jpg"
-- media_url: https://vimeo.com/jloganalexander/thegrinch
+- media_url: https://vimeo.com/644105002
   thumbnail_image: "/uploads/JM_Halloween_Thumbnail.jpg"
 - media_url: https://www.youtube.com/watch?v=qiJy-_2cZ8I
   thumbnail_image: "/uploads/Logo_VarietyHour_Thumbnail.jpg"
