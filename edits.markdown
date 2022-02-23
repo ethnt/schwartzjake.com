@@ -13,6 +13,8 @@ media:
   thumbnail_image: "/uploads/Cyn_HolyRoller_Thumbnail.jpg"
 - media_url: https://www.youtube.com/watch?v=1TFjKtzYUWE
   thumbnail_image: "/uploads/StephenPuth_HalfGone_Thumbnail.jpg"
+- media_url: https://vimeo.com/jloganalexander/thegrinch
+  thumbnail_image: "/uploads/JM_Halloween_Thumbnail.jpg"
 - media_url: https://www.youtube.com/watch?v=qiJy-_2cZ8I
   thumbnail_image: "/uploads/Logo_VarietyHour_Thumbnail.jpg"
 - media_url: https://www.youtube.com/watch?v=sjr11lGEBg4
@@ -47,8 +49,6 @@ media:
   thumbnail_image: "/uploads/BU_Thumbail.jpg"
 - media_url: https://www.youtube.com/watch?v=vK8wHkucVBk
   thumbnail_image: "/uploads/ElvisCostello_Thumbail.jpg"
-- media_url: https://vimeo.com/171871938
-  thumbnail_image: "/uploads/EVVYAwards_Thumbnail2.jpg"
 - media_url: "/uploads/WhiteImage.jpg"
   thumbnail_image: "/uploads/WhiteImage.jpg"
 - media_url: "/uploads/Other%20Projects.jpg"
