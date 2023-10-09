@@ -4,9 +4,11 @@ position: 2
 has_masonry: true
 modal_type: reel
 reel:
-  url: https://www.youtube.com/watch?v=zTyzgvmJZLA
-  thumbnail_image: "/uploads/ASHER_In-This-Ocean_Thumbnail.jpg"
+  url: "/uploads/JustDesserts_FestivalCircuit_231009_01.jpg"
+  thumbnail_image: "/uploads/JustDesserts_Thumbnail_231009_01.jpg"
 media:
+- media_url: https://www.youtube.com/watch?v=zTyzgvmJZLA
+  thumbnail_image: "/uploads/ASHER_In-This-Ocean_Thumbnail.jpg"
 - media_url: https://vimeo.com/589031677
   thumbnail_image: "/uploads/Converse_PickAColor_Thumbnail.jpg"
 - media_url: https://www.youtube.com/watch?v=imOnV44j3qE
