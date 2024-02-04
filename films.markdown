@@ -5,7 +5,7 @@ has_masonry: true
 modal_type: reel
 reel:
   url: "/uploads/JustDesserts_FestivalCircuit_231009_01.jpg"
-  thumbnail_image: "/uploads/JustDesserts_Thumbnail_231009_01.jpg"
+  thumbnail_image: "/uploads/JustDesserts_Thumbnail_240204_01.jpg"
 media:
 - media_url: https://www.youtube.com/watch?v=zTyzgvmJZLA
   thumbnail_image: "/uploads/ASHER_In-This-Ocean_Thumbnail.jpg"
