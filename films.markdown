@@ -7,7 +7,7 @@ reel:
   url: "/uploads/JustDesserts_FestivalCircuit_231009_01.jpg"
   thumbnail_image: "/uploads/JustDesserts_Thumbnail_240204_01.jpg"
 media:
-- media_url: https://www.youtube.com/watch?v=fDdSSdqVXRU&pp=ygUMZWxmIGxpcCBvaWwg
+- media_url: https://www.youtube.com/watch?v=fDdSSdqVXRU
   thumbnail_image: "/uploads/ELF_LipOIl_Thumbnail_240229_01.jpg"
 - media_url: https://www.youtube.com/watch?v=zTyzgvmJZLA
   thumbnail_image: "/uploads/ASHER_In-This-Ocean_Thumbnail.jpg"
