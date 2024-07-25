@@ -13,6 +13,8 @@ media:
   thumbnail_image: "/uploads/TroyeSivan_SIR_Thumbnail.jpg"
 - media_url: https://www.youtube.com/watch?v=XeJyuKHuF2w
   thumbnail_image: "/uploads/Cyn_HolyRoller_Thumbnail.jpg"
+- media_url: https://www.youtube.com/watch?v=VHETTGrzZao
+  thumbnail_image: "/uploads/CNV_STAR-CHEV_THUMBNAIL_240725_01.jpg"
 - media_url: https://www.youtube.com/watch?v=1TFjKtzYUWE
   thumbnail_image: "/uploads/StephenPuth_HalfGone_Thumbnail.jpg"
 - media_url: https://vimeo.com/644105002
@@ -43,8 +45,6 @@ media:
   thumbnail_image: "/uploads/Doomed_Thumbnail%20-%20Editor.jpg"
 - media_url: https://www.youtube.com/watch?v=dPeuguUHPlA
   thumbnail_image: "/uploads/Fallin_Thumbail%20-%20Editor.jpg"
-- media_url: https://vimeo.com/257176922
-  thumbnail_image: "/uploads/Halsey_Sorry_Editor_Thumbail.jpg"
 - media_url: https://www.youtube.com/watch?v=CfCxItPlidc
   thumbnail_image: "/uploads/M_GrandPetit_Thumbnail.jpg"
 - media_url: https://www.youtube.com/watch?v=vK8wHkucVBk
