@@ -9,12 +9,14 @@ reel:
 media:
 - media_url: https://www.youtube.com/watch?v=fhyk9rchC2c
   thumbnail_image: "/uploads/SilkChiffon_Thumbnail.jpg"
-- media_url: https://www.youtube.com/watch?v=imOnV44j3qE
-  thumbnail_image: "/uploads/TroyeSivan_SIR_Thumbnail.jpg"
+- media_url: https://www.youtube.com/watch?v=5SgsnfMO8-I
+  thumbnail_image: "/uploads/KatieGavin_CasualDrugUse_Thumbnail_240820_01.jpg"
 - media_url: https://www.youtube.com/watch?v=XeJyuKHuF2w
   thumbnail_image: "/uploads/Cyn_HolyRoller_Thumbnail.jpg"
 - media_url: https://www.youtube.com/watch?v=VHETTGrzZao
   thumbnail_image: "/uploads/CNV_STAR-CHEV_THUMBNAIL_240725_01.jpg"
+- media_url: https://www.youtube.com/watch?v=imOnV44j3qE
+  thumbnail_image: "/uploads/TroyeSivan_SIR_Thumbnail.jpg"
 - media_url: https://www.youtube.com/watch?v=1TFjKtzYUWE
   thumbnail_image: "/uploads/StephenPuth_HalfGone_Thumbnail.jpg"
 - media_url: https://vimeo.com/644105002
@@ -39,8 +41,6 @@ media:
   thumbnail_image: "/uploads/Borderlands_Cosplay_Thumbnail.jpg"
 - media_url: https://www.youtube.com/watch?v=ccMIA3t7iJg
   thumbnail_image: "/uploads/Thumbnail_MAA.jpg"
-- media_url: https://www.youtube.com/watch?v=b2390GAm4d0
-  thumbnail_image: "/uploads/RachelPlatten_Thumbnail%20-%20Editor.jpg"
 - media_url: https://vimeo.com/223823259
   thumbnail_image: "/uploads/Doomed_Thumbnail%20-%20Editor.jpg"
 - media_url: https://www.youtube.com/watch?v=dPeuguUHPlA
