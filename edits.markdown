@@ -4,8 +4,8 @@ position: 3
 has_masonry: true
 modal_type: reel
 reel:
-  url: https://www.youtube.com/watch?v=ysQl74R_Tog
-  thumbnail_image: "/uploads/MUNA_WhatIwant_Thumbnail.jpg"
+  url: https://www.youtube.com/watch?v=ojrKetq0nFk
+  thumbnail_image: "/uploads/ILYBYE_THUMBNAIL_241223_01.jpg"
 media:
 - media_url: https://www.youtube.com/watch?v=fhyk9rchC2c
   thumbnail_image: "/uploads/SilkChiffon_Thumbnail.jpg"
