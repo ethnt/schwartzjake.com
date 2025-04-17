@@ -4,7 +4,7 @@ position: 2
 has_masonry: true
 modal_type: reel
 reel:
-  url: https://youtu.be/Ee4oQyJxraU
+  url: https://youtu.be/Ee4oQyJxraU?si=vzLDMpHd-uzig_dA
   thumbnail_image: "/uploads/JustDesserts_Thumbnail_240204_01.jpg"
 media:
 - media_url: https://www.youtube.com/watch?v=fDdSSdqVXRU
