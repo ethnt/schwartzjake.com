@@ -4,9 +4,11 @@ position: 2
 has_masonry: true
 modal_type: reel
 reel:
-  url: https://www.youtube.com/watch?v=Ee4oQyJxraU
-  thumbnail_image: "/uploads/JustDesserts_Thumbnail_240204_01.jpg"
+  url: https://www.youtube.com/watch?v=nK06Jew5JfU
+  thumbnail_image: "/uploads/CON_SHAI_WINTER%20RED_Thumbnail_260226_01.jpg"
 media:
+- media_url: https://www.youtube.com/watch?v=Ee4oQyJxraU
+  thumbnail_image: "/uploads/JustDesserts_Thumbnail_240204_01.jpg"
 - media_url: https://www.youtube.com/watch?v=fDdSSdqVXRU
   thumbnail_image: "/uploads/ELF_LipOIl_Thumbnail_240229_01.jpg"
 - media_url: https://www.youtube.com/watch?v=zTyzgvmJZLA
